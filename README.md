@@ -1,6 +1,7 @@
 📊 E-Commerce Sales Analysis
 
 📌 Project Overview
+
 This project analyzes sales and profit data from a retail e-commerce store.
 Using Python (Pandas, Plotly, Jupyter Notebook), I answered key business queries to understand revenue trends, product performance, and customer behavior.
 
